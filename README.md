@@ -3,7 +3,7 @@
 An interactive, data-driven Human Resources dashboard built using **Tableau Desktop Public Edition**. This project analyzes workforce demographics, departmental distributions, salary allocations, and employee attrition trends to provide actionable insights for HR stakeholders.
 
 ## 📊 Live Dashboard
-👉 [View Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/coco.wei1646/viz/HRAnalyticsCaseStudy-WorkspaceProject/Dashboard1)
 
 ## 🔍 Key Insights Uncovered
 * **Workforce Volume:** The organization is heavily anchored by the **Sales** (272 employees) and **IT** (248 employees) departments.
