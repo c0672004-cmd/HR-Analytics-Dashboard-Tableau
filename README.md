@@ -28,3 +28,6 @@ The dashboard is designed using a clean, tiled executive grid layout consisting 
 ## 📌 Submission Guidelines Meta
 * Built as part of the **Ededge Industry Engagement Program (#EGIEP)**.
 * Visual assets and color schemes formatted for presentation clarity.
+
+## 🎥 Youtube Video
+[See Youtube Video Here](https://youtu.be/Bg9bi7ElXxM)
